@@ -1,0 +1,23 @@
+{
+  "name": "sushi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "vite": "^6.1.1"
+  },
+  "overrides": {
+    "esbuild": "^0.25.0",
+    "serialize-javascript": "^6.0.2",
+    "postcss": "^8.2.13",
+    "nth-check": "^2.0.1"
+  }
+}
