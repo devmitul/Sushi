@@ -38,7 +38,7 @@
 npm run dev
 ```
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://eatsushi.netlify.app/)
 :arrow_right: Visit the live site to see the project in action.
 
 ## 🎨 Uses
